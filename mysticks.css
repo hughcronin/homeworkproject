@@ -1,0 +1,28 @@
+body {
+  background-color: skyblue;
+  border-top-width: :12px;
+  margin-left: 40px;
+}
+p{
+  font-family: times;
+}
+h1{margin-left: -30px;
+  font-size: 16px;
+  color: cornflowerblue;
+  background-color: beige;
+}
+h2{
+  color: green;
+  ;}
+img{
+  width: 200px;
+}
+#header1 h1{
+      display: inline-block;
+}
+.clubs {
+  font-style: italic;
+}
+.bottom{
+  padding-bottom: 30px;
+}
